@@ -29,17 +29,14 @@
 <!-- ===================== TECH STACK ===================== -->
 ## ⚙️ Tech Stack
 
-### 🧠 Core
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet" />
 </p>
 
-### ⚡ Tools & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=electron,react,nodejs,docker,git" />
 </p>
 
-### 🤖 AI & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
